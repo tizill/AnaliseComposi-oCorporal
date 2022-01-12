@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\bin\Debug\AnaliseDeComposicaoCorporal.exe.config
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\bin\Debug\AnaliseDeComposicaoCorporal.exe
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\bin\Debug\AnaliseDeComposicaoCorporal.pdb
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.Form1.resources
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.Properties.Resources.resources
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.exe
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.pdb
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\bin\Debug\pt-BR\AnaliseDeComposicaoCorporal.resources.dll
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.Form1.pt-BR.resources
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\pt-BR\AnaliseDeComposicaoCorporal.resources.dll
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.Login.resources
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.Preenchimento.resources
+C:\Users\marce\source\repos\AnaliseDeComposicaoCorporal\AnaliseDeComposicaoCorporal\obj\Debug\AnaliseDeComposicaoCorporal.Inicio.resources
